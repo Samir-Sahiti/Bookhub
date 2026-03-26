@@ -42,7 +42,8 @@ This sprint focuses on **planning and scaffolding**, not feature development.
 
 ### 1. Product Definition
 
-**Owner:** Samir
+**Owner:** Samir  
+**Story Points:** 3
 
 * Define problem statement
 * Identify target users (persona)
@@ -53,7 +54,8 @@ This sprint focuses on **planning and scaffolding**, not feature development.
 
 ### 2. MVP Scoping
 
-**Owner:** Full Team
+**Owner:** Full Team  
+**Story Points:** 2
 
 * Apply MoSCoW prioritization
 * Define Must Have features
@@ -64,7 +66,8 @@ This sprint focuses on **planning and scaffolding**, not feature development.
 
 ### 3. Product Backlog Creation
 
-**Owner:** Full Team
+**Owner:** Full Team  
+**Story Points:** 3
 
 * Write 10 user stories
 * Define acceptance criteria
@@ -75,7 +78,8 @@ This sprint focuses on **planning and scaffolding**, not feature development.
 
 ### 4. Repository Setup
 
-**Owner:** Samir
+**Owner:** Samir  
+**Story Points:** 1
 
 * Initialize GitHub repository
 * Create monorepo structure:
@@ -92,7 +96,8 @@ This sprint focuses on **planning and scaffolding**, not feature development.
 
 ### 5. Wireframes
 
-**Owner:** Fisnik
+**Owner:** Fisnik  
+**Story Points:** 5
 
 * Create initial UI wireframes (Figma)
 * Cover key screens:
@@ -101,6 +106,10 @@ This sprint focuses on **planning and scaffolding**, not feature development.
   * Search results
   * Book detail page
 * Focus on layout, not design polish
+
+---
+
+## 📊 Total Story Points: 14
 
 ---
 
