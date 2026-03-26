@@ -1,0 +1,133 @@
+# 📋 Product Backlog — VibeReads
+
+---
+
+## 🟢 US-001 — Vibe Search
+- **Areas:** Backend, Frontend  
+- **Priority:** Must Have  
+- **Type:** Feature  
+- **MVP:** Yes  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #1  
+
+---
+
+## 🟢 US-002 — Book Results Page
+- **Areas:** Frontend  
+- **Priority:** Must Have  
+- **Type:** Feature  
+- **MVP:** Yes  
+- **Status:** Open  
+- **Issue:** #2  
+
+---
+
+## 🟢 US-003 — Book Detail Page
+- **Areas:** Backend, Frontend  
+- **Priority:** Must Have  
+- **Type:** Feature  
+- **MVP:** Yes  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #3  
+
+---
+
+## 🟢 US-004 — Register & Login
+- **Areas:** Backend, Frontend  
+- **Priority:** Must Have  
+- **Type:** Feature  
+- **MVP:** Yes  
+- **Status:** Open  
+- **Issue:** #4  
+
+---
+
+## 🟢 US-005 — Submit a Review
+- **Areas:** Backend, Frontend  
+- **Priority:** Must Have  
+- **Type:** Feature  
+- **MVP:** Yes  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #5  
+
+---
+
+## 🟡 US-006 — Reading List
+- **Areas:** Backend, Frontend  
+- **Priority:** Should Have  
+- **Type:** Feature  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #6  
+
+---
+
+## 🟡 US-007 — Notifications
+- **Areas:** Backend, Frontend  
+- **Priority:** Should Have  
+- **Type:** Feature  
+- **Status:** Open  
+- **Issue:** #29  
+
+---
+
+## 🟡 US-012 — Live Activity Feed
+- **Areas:** Backend, Frontend  
+- **Priority:** Should Have  
+- **Type:** Feature  
+- **Status:** Open  
+- **Issue:** #8  
+
+---
+
+## 🟡 US-013 — AI Review Moderation
+- **Areas:** Backend, Frontend  
+- **Priority:** Should Have  
+- **Type:** Feature  
+- **Status:** Open  
+- **Issue:** #7  
+
+---
+
+## 🔵 US-008 — Join a Reading Challenge
+- **Areas:** Backend, Frontend  
+- **Priority:** Could Have  
+- **Type:** Feature  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #27  
+
+---
+
+## 🔵 US-009 — Create a Reading Club
+- **Areas:** Backend, Frontend  
+- **Priority:** Could Have  
+- **Type:** Feature  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #9  
+
+---
+
+## 🔵 US-010 — Writer Publishing Hub
+- **Areas:** Backend, Frontend, Infra  
+- **Priority:** Could Have  
+- **Type:** Feature  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #10  
+
+---
+
+## 🔵 US-011 — Build Mood Profile
+- **Areas:** Backend, Frontend  
+- **Priority:** Could Have  
+- **Type:** Feature  
+- **Wireframe:** Yes  
+- **Status:** Open  
+- **Issue:** #28  
+
+---
